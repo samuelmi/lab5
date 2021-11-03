@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Sep 22 22:39:43 2021
+# Process ID: 16220
+# Current directory: C:/Users/samum/Comp541/Lab5/Lab5.runs/synth_1
+# Command line: vivado.exe -log io_demo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source io_demo.tcl
+# Log file: C:/Users/samum/Comp541/Lab5/Lab5.runs/synth_1/io_demo.vds
+# Journal file: C:/Users/samum/Comp541/Lab5/Lab5.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source io_demo.tcl -notrace
